@@ -1,1 +1,1 @@
-Raw data for the paper 'Factors associated with survival in pediatric extracranial germ cell tumors: A study focusing on postoperative alpha-fetoprotein' ![image](https://github.com/user-attachments/assets/dcfb7e51-5f35-4cd1-9d45-6f9a56df0016)
+Raw data for the paper 'Factors associated with survival in pediatric extracranial germ cell tumors: A study focusing on postoperative alpha-fetoprotein' submitted to PSI.
